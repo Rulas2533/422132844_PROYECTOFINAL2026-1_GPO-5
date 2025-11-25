@@ -1,0 +1,61 @@
+﻿  PFTEORIA.cpp
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\Mesh.h(95,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "PFTEORIA.cpp")
+  
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(439,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1050,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1051,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1055,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1056,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1058,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\ConfigInicial\PFTEORIA.cpp(1059,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+PFTEORIA.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewEnableVertexAttribArray sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewBindVertexArray sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewVertexAttribPointer sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGetShaderiv sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewCompileShader sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo aiGetMaterialTextureCount sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewCreateShader sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewBindBuffer sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewCreateProgram sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewUniform1i sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGetShaderInfoLog sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwGetFramebufferSize sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGetProgramiv sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo SOIL_free_image_data sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwInit sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo SOIL_load_image sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewUniform1f sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGetUniformLocation sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewBufferData sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewAttachShader sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewActiveTexture sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewShaderSource sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGenVertexArrays sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewUniformMatrix4fv sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo aiGetMaterialTexture sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp_glewExperimental sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGetProgramInfoLog sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGenBuffers sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewGenerateMipmap sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewUniform3f sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewDeleteShader sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp___glewLinkProgram sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+PFTEORIA.obj : error LNK2001: símbolo externo __imp_glewInit sin resolver
+C:\Users\HP\Desktop\2026-1\Computación Gráfica\Github\Curso_Computacioon_Grafica\x64\Release\Proyecto_Final_RPJ.exe : fatal error LNK1120: 49 externos sin resolver

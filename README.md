@@ -1,2 +1,2 @@
-# 319181386_PROYECTOFINAL2026-1_GPO-5
-PF 
+# Curso_Computacioon_Grafica
+2026-1
